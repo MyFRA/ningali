@@ -1,0 +1,12 @@
+{
+  "name": "ningali",
+  "version": "1.0.0",
+  "description": "Previewing file from input type file",
+  "main": "src/ningali.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": false
+}
